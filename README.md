@@ -38,7 +38,7 @@ fim
 
 O diretório "fontes" possui alguns códigos escritos em algumas linguagens de programação baseadas no projeto em "português estruturado" apresentado. Os programas estão adaptados e configurados para iniciantes em programação e não para programadores experientes. Todos esses programas estão escritos buscando-se a maior proximidade possível com o código em português indicado e de acordo com o livro:
 
-[Algoritmos](https://www.editoraerica.com.br/algoritmos-logica-para-desenvolvimento-de-programacao-de-computadores/p)
-Lógica para desenvolvimento de programação de computadores
-Editora Érica
-Aurores: José Augusto N. G Manzano e Jayr figueiredo de Oliveira.
+> [Algoritmos](https://www.editoraerica.com.br/algoritmos-logica-para-desenvolvimento-de-programacao-de-computadores/p)
+> Lógica para desenvolvimento de programação de computadores
+> Editora Érica
+> Aurores: José Augusto N. G Manzano e Jayr figueiredo de Oliveira.
