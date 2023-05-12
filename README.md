@@ -40,10 +40,10 @@ O diretório "fontes" possui alguns códigos escritos em algumas linguagens de p
 
 > [Algoritmos](https://www.editoraerica.com.br/algoritmos-logica-para-desenvolvimento-de-programacao-de-computadores/p)
 > 
-> Lógica para desenvolvimento de programação de computadores
+> **Lógica para desenvolvimento de programação de computadores**
 > 
-> Editora Érica
+> **Editora Érica**
 > 
-> Aurores: José Augusto N. G Manzano e Jayr figueiredo de Oliveira.
+> **Aurores: José Augusto N. G Manzano e Jayr figueiredo de Oliveira.**
 
 ![Capa livro](https://github.com/J-AugustoManzano/senha/blob/main/capa.jpg)
