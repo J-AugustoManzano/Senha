@@ -46,4 +46,4 @@ O diretório "fontes" possui alguns códigos escritos em algumas linguagens de p
 > 
 > Aurores: José Augusto N. G Manzano e Jayr figueiredo de Oliveira.
 
-![Capa livro](/senha/blob/main/capa.jpg)
+![Capa livro](J-AugustoManzano//senha/blob/main/capa.jpg)
