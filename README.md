@@ -45,3 +45,5 @@ O diretório "fontes" possui alguns códigos escritos em algumas linguagens de p
 > Editora Érica
 > 
 > Aurores: José Augusto N. G Manzano e Jayr figueiredo de Oliveira.
+
+![Capa livro](https://github.com/J-AugustoManzano/senha/blob/main/capa.jpg)
