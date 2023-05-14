@@ -88,7 +88,7 @@ int main(void)
   cout << "Entre senha para login ...: ";
   readpwd(CADSENHA);
 
-  cout << endl << endl;;
+  cout << endl << endl;
   cout << "Usuario e senha cadastrados";
   cout << endl << endl;
 
