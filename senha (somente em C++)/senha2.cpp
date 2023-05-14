@@ -92,7 +92,7 @@ int main(void)
   cout << "Usuario e senha cadastrados";
   cout << endl << endl;
 
-  cout << "Tecle <Enter> para encerrar... ";
+  cout << "Tecle <Enter> para continuar... ";
   cin.get();
   cout << endl;
 
