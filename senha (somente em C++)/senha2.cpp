@@ -107,7 +107,7 @@ int main(void)
       readpwd(ENTSENHA);
 
       cout << endl << endl;
-      if (not strcmp(CADLOGIN, ENTLOGIN) != 0 && not strcmp(CADSENHA, ENTSENHA) != 0)
+      if (not strcmp(CADLOGIN, ENTLOGIN) != 0 and not strcmp(CADSENHA, ENTSENHA) != 0)
         {
           cout << "ACESSO BEM SUCEDIDO" << endl;
           break;
