@@ -47,3 +47,5 @@ O diretório "fontes" possui alguns códigos escritos em algumas linguagens de p
 > **Aurores: José Augusto N. G Manzano e Jayr figueiredo de Oliveira.**
 
 ![Capa livro](https://github.com/J-AugustoManzano/senha/blob/main/capa.jpg)
+
+O diretório "senha (somente em C++)" possui uma versão sofisticada de um programa para o tratamnento de senha escrito em C++. Assim como os demais programas este é apenas um exemplo operacional com intuíto didático. Não deve ser utilizado profissionalmente da forma apresentada. Este e os demais programas devem ser tratados com extrema cautela.
