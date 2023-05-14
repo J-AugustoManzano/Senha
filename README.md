@@ -48,4 +48,6 @@ O diretório "fontes" possui alguns códigos escritos em algumas linguagens de p
 
 ![Capa livro](https://github.com/J-AugustoManzano/senha/blob/main/capa.jpg)
 
-O diretório "senha (somente em C++)" possui uma versão sofisticada de um programa para o tratamnento de senha escrito em C++. Assim como os demais programas este é apenas um exemplo operacional com intuíto didático. Não deve ser utilizado profissionalmente da forma apresentada. Este e os demais programas devem ser tratados com extrema cautela.
+O diretório "senha (somente em C++)" possui uma versão sofisticada de um programa para o tratamento de senha escrito em C++. Assim como os demais programas este é apenas um exemplo operacional com intuito didático. Não deve ser utilizado profissionalmente da forma apresentada. Neste programa a entrada da senha ocorre com a substituição dos caracteres informados por "asteriscos". Exemplo similar está definido em linguagem Pascal junto ao diretório "senha (somente em Pascal)". No caso da versão Pascal o programa funciona adequadamente no sistema operacional Windows, mas apresenta irregularidades no padrão POSIX (aguardar solução).
+
+Estes e os demais programas devem ser tratados com extrema cautela.
