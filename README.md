@@ -50,6 +50,8 @@ O diretório "fontes" possui alguns códigos escritos em algumas linguagens de p
 
 **Material extra - complementar**
 
-O diretório "senha (somente em C++)" possui uma versão sofisticada de um programa para o tratamento de senha escrito em C++. Assim como os demais programas este é apenas um exemplo operacional com intuito didático. Não deve ser utilizado profissionalmente da forma apresentada. Neste programa a entrada da senha ocorre com a substituição dos caracteres informados por "asteriscos". Exemplo similar está definido em linguagem Pascal junto ao diretório "senha (somente em Pascal)". No caso da versão Pascal o programa funciona adequadamente no sistema operacional Windows, mas apresenta irregularidades no padrão POSIX (aguardar solução).
+O diretório "senha (somente em C++)" possui uma versão sofisticada de um programa chamado "senha2.cpp" para o tratamento de senha escrito em C++, tanto no Windows como no Linux a partir da técnica de codificação "cross-platform". Assim como os demais programas este é apenas um exemplo operacional com intuito didático. Não deve ser utilizado profissionalmente da forma apresentada. Neste programa a entrada da senha ocorre com a substituição dos caracteres informados por "asteriscos". Exemplo similar está definido em linguagem Pascal junto ao diretório "senha (somente em Pascal)" a partir do programa "senha2.pas". No caso da versão Pascal o programa funciona adequadamente no sistema operacional Windows, mas apresenta irregularidades no padrão POSIX (aguardar solução).
+
+A versão do programa "senha2win.pas" no diretório "senha (somente em Pascal)" funciona dentro do esperado no Sistema Operacional Windows.
 
 Estes e os demais programas devem ser tratados e usados com extrema cautela.
