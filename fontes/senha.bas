@@ -2,7 +2,7 @@
 ' Programa didático, não pode ser
 ' usado profissionalmente
 
-dim T As integer = 3
+dim T as integer = 3
 dim CORRETO as boolean = false
 dim SENHA as integer
 
@@ -14,7 +14,7 @@ do
     T = T - 1
     print "Tentativas restantes: "; T
   end if
-loop until (CORRETO = True) or (T = 0)
+loop until (CORRETO = true) or (T = 0)
 
 if (CORRETO = true) then
   print "Acesso liberado"
