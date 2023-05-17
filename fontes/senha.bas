@@ -1,6 +1,8 @@
 ' Teste para uso de senha
 ' Programa didático, não pode ser
 ' usado profissionalmente
+' 
+' Linguagem BASIC (Free BASIC Compilaer)
 
 dim T as integer = 3
 dim CORRETO as boolean = false
