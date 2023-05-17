@@ -23,6 +23,7 @@ int main(void)
        }
     } 
   while (not(CORRETO == true or T == 0));    
+  
   if (CORRETO == true)
     std::cout << "Acesso liberado" << std::endl;
   else
