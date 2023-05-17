@@ -11,6 +11,7 @@ int SENHA;
 
 int main(void) 
 {
+
   do 
     {
       printf("Entre a senha de acesso: ");
@@ -23,10 +24,12 @@ int main(void)
           printf("Tentativas restantes: %d\n", T);
         }
     }
-  while (!(CORRETO == true || T == 0));    
+  while (!(CORRETO == true || T == 0)); 
+  
   if (CORRETO == true)
     printf("Acesso liberado\n");
   else
     printf("Acesso bloqueado\n");
+  
   return 0;
 }
