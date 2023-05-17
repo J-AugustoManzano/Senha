@@ -17,7 +17,7 @@ func main() {
   for { // simulação "repeat"
     fmt.Print("Entre a senha de acesso: ")
     fmt.Scanln(&SENHA)
-    if SENHA == 123 {
+    if (SENHA == 123) {
       CORRETO = true
     } else {
       T = T - 1
