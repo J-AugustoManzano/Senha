@@ -1,6 +1,8 @@
 # Teste para uso de senha
 # Programa didático, não pode ser
 # usado profissionalmente
+# 
+# Linguagem Python
 
 T = 3
 CORRETO = False
