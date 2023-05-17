@@ -13,7 +13,6 @@ do {
     print "Entre a senha de acesso: ";
     $SENHA = <STDIN>;
     chomp $SENHA;
-
     if ($SENHA == 123) {
         $CORRETO = 1; # "1" como valor "true"
     } else {
