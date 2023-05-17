@@ -16,6 +16,7 @@ var
   SENHA : inteiro
 
 início
+
   T <- 3
   CORRETO <- .falso.
   repita
@@ -28,11 +29,13 @@ início
       escreva "Tentativas restantes: ", T
     fim_se
   até_que (CORRETO = .verdadeiro.) .ou. (T = 0)
+  
   if (CORRETO = .verdadeiro.) então
     escreva "Acesso liberado"
   senão
     escreva "Acesso bloqueado"
   fim_se
+  
 fim
 ```
 
