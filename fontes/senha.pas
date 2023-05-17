@@ -2,6 +2,8 @@
 Teste para uso de senha
 Programa didático, não pode ser
 usado profissionalmente
+
+Linguagem Pascal (Free Pascal Compilaer)
 *}
 
 program VALIDA_SENHA;
