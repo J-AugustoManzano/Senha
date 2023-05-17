@@ -12,7 +12,7 @@ int SENHA;
 int main(void) 
 {
 
-  do 
+  do // silulação "repeat"
     {
       printf("Entre a senha de acesso: ");
       scanf("%d", &SENHA);
@@ -24,7 +24,7 @@ int main(void)
           printf("Tentativas restantes: %d\n", T);
         }
     }
-  while (!(CORRETO == true || T == 0)); 
+  while (!(CORRETO == true || T == 0)); // simulação "until"
   
   if (CORRETO == true)
     printf("Acesso liberado\n");
