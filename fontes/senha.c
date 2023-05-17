@@ -1,6 +1,8 @@
 // Teste para uso de senha
 // Programa didático, não pode ser
 // usado profissionalmente
+//
+// Linguagem C
 
 #include <stdio.h>
 #include <stdbool.h>
