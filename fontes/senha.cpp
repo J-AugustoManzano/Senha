@@ -10,6 +10,7 @@ int SENHA;
 
 int main(void) 
 {
+  
   do 
    {
       std::cout << "Entre a senha de acesso: ";
@@ -28,5 +29,6 @@ int main(void)
     std::cout << "Acesso liberado" << std::endl;
   else
     std::cout << "Acesso bloqueado" << std::endl;
+  
   return 0;
 }
