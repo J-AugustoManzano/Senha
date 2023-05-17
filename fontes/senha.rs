@@ -1,6 +1,8 @@
 // Teste para uso de senha
 // Programa didático, não pode ser
 // usado profissionalmente
+// 
+// Linguagem Rust
 
 use std::io::{self, Write};
 
