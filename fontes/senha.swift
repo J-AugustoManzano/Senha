@@ -1,6 +1,8 @@
 // Teste para uso de senha
 // Programa didático, não pode ser
 // usado profissionalmente
+// 
+// Linguagem Swift
 
 import Foundation
 
