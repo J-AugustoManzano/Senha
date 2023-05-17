@@ -1,3 +1,7 @@
+# Teste para uso de senha
+# Programa didático, não pode ser
+# usado profissionalmente
+
 use strict;
 use warnings;
 
