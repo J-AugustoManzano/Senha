@@ -2,7 +2,7 @@
 # Programa didático, não pode ser
 # usado profissionalmente
 # 
-# Linguagem Pearl
+# Linguagem Perl
 
 use strict;
 use warnings;
