@@ -1,11 +1,18 @@
 # Exemplos de validação de senha
 Exemplos didáticos de validação de senha.
 
-Os programas aqui indicados possuem apelo apenas didático e não devem ser implementados da forma que estão para uso profissional em hipótese alguma.
+Os programas aqui indicados possuem apelo apenas didático e não devem ser implementados da forma que estão para uso profissional em hipótese alguma. O objetivo deste exemplo é fazer a demonstração de uso de um laço pós-teste de fluxo verdadeiro, onde a entrada deve ser realizada antes da checagem condicional. O laço em uso utiliza simultaneamente duas técnicas básicas de repetição de bloco de programa, sendo: o uso de laço **iterativo** com o controle de vezes pela variável do tipo *inteiro* "T" (TENTATIVAS) e o uso de laço **interativo** com a variável do tipo "lógico" "CORRETO" que assume os valores "falso" ou "verdadeiro".
 
-O objetivo é mostrar que a ideia expressa em sua forma lógica e codificada em "português estruturado" pode ser implementada em diversas linguagens de programação como fora planejada.
+Além do objetivo proposto este projeto apresenta o programa codificado em "português estruturado" indicado abaixo implementado em algumas linguagens de programação, destacando-se: BASIC (estruturado), C, C++, C#, Dart, FORTRAN-90, Go (Golang), Java, Kotlin, Lua, Pascal, Perl, Python, Rust, Scala e Swift.
 
-O material aqui indicado é complemento ao vídeo que trata do assunto no canal "AM-42"
+Os programas aqui apresentados podem eventualmente serem executados nos serviços Web:
+
+- [Programiz](https://www.programiz.com/cpp-programming/online-compiler/)
+- [Tutorialpoint Online Compilers and Interpreters](https://www.tutorialspoint.com/codingground.htm)
+
+Mas não há a garantia de que esses programas funcionem como esperado, pois isso depende de diversos fatores de configuração que não se tem como definir, uma vez que os serviços são "online" é oferecem um ambiente pré-configurado.
+
+O material aqui indicado é complemento ao vídeo que trata do assunto no canal "AM-42":
 
 https://youtu.be/He34F9zAnq8
 
@@ -41,7 +48,7 @@ início
 fim
 ```
 
-O diretório "fontes" possui alguns códigos escritos em algumas linguagens de programação baseadas no projeto em "*português estruturado*" apresentado. Os programas estão adaptados e configurados para iniciantes em programação e não para programadores experientes. Todos esses programas estão escritos buscando-se a maior proximidade possível com o código adotado no livro:
+O diretório "fontes" possui alguns códigos escritos em algumas linguagens de programação baseadas no projeto em "*português estruturado*" apresentado. Os programas estão adaptados e configurados para iniciantes em programação e não para programadores experientes. Todos esses programas estão escritos buscando-se a maior proximidade possível com o formato de código adotado no livro:
 
 > [Algoritmos](https://www.editoraerica.com.br/algoritmos-logica-para-desenvolvimento-de-programacao-de-computadores/p)
 > 
