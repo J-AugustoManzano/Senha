@@ -6,6 +6,7 @@
 
 program teste_senha
   implicit none
+  
   integer :: T = 3
   logical :: CORRETO = .false.
   integer :: SENHA
