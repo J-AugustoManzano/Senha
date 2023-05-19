@@ -7,7 +7,7 @@
 T = 3
 CORRETO = False
 
-while True: # simulação "repeat"
+while (True): # simulação "repeat"
   SENHA = input("Entre a senha de acesso: ")
   if (SENHA == "123"):
     CORRETO = True
