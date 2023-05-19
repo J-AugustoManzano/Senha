@@ -17,26 +17,27 @@ class Program
 
     do // simulação "repeat"
     {
-        Console.Write("Entre a senha de acesso: ");
-        string input = Console.ReadLine();
-        if (int.TryParse(input, out SENHA))
+      Console.Write("Entre a senha de acesso: ");
+      string input = Console.ReadLine();
+      if (int.TryParse(input, out SENHA))
+      {
+        if (SENHA == 123)
         {
-            if (SENHA == 123)
-            {
-              CORRETO = true;
-            }
-            else
-            {
-              T = T - 1;
-              Console.WriteLine("Tentativas restantes: " + T);
-            }
+          CORRETO = true;
         }
         else
         {
-          Console.WriteLine("Entrada inválida! Tente novamente.");
+          T = T - 1;
+          Console.WriteLine("Tentativas restantes: " + T);
         }
+      }
+      else
+      {
+        Console.WriteLine("Entrada inválida! Tente novamente.");
+      }
     }
     while (!CORRETO == true || T == 0); // simulação "until"
+    
     if (CORRETO == true)
     {
       Console.WriteLine("Acesso liberado");
