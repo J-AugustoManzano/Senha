@@ -25,7 +25,7 @@ func main() {
       T = T - 1
       fmt.Println("Tentativas restantes:", T)
     }
-    if (CORRETO || T == 0) { 
+    if (CORRETO == true || T == 0) { 
       break
     } // simulação "until"
   }
