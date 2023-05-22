@@ -5,7 +5,7 @@
 // Linguagem Pike
 
 int T = 3;
-int CORRETO = 0;
+int CORRETO = 0; // "0" representa falso "false"
 int SENHA = 0;
 
 int main()
@@ -15,7 +15,7 @@ int main()
     write("Entre a senha de acesso: ");
     sscanf(Stdio.stdin.gets(), "%d", SENHA);
     if (SENHA == 123) {
-      CORRETO = 1;
+      CORRETO = 1; // "1" representa verdadeiro "true"
     } else {
       T = T - 1;
       write("Tentativas restantes: %d\n", T);
