@@ -7,14 +7,14 @@
 BEGIN {
 
   T = 3;
-  CORRETO = 0; # "0" para falso
+  CORRETO = 0; # "0" representa falso "false"
   SENHA = 0;
 
   while (1) { # simulação "repeat"
     printf("Entre a senha de acesso: ");
     getline SENHA < "/dev/tty";
     if (SENHA == 123)
-      CORRETO = 1; # "1" para verdadeiro
+      CORRETO = 1; # "1" representa verdadeiro "true"
     else {
       T = T - 1;
       printf("Tentativas restantes: %d\n", T);
