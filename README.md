@@ -3,7 +3,7 @@ Exemplos didáticos de validação de senha.
 
 Os programas aqui indicados possuem apelo apenas didático e não devem ser implementados da forma que estão para uso profissional em hipótese alguma. O objetivo deste exemplo é fazer a demonstração de uso de um laço pós-teste de fluxo verdadeiro, onde a entrada deve ser realizada antes da checagem condicional. O laço em uso utiliza simultaneamente duas técnicas básicas de repetição de bloco de programa, sendo: o uso de laço **iterativo** com o controle de vezes pela variável do tipo *inteiro* "T" (TENTATIVAS) e o uso de laço **interativo** com a variável do tipo "lógico" "CORRETO" que assume os valores "falso" ou "verdadeiro".
 
-Além do objetivo proposto, este projeto apresenta o programa codificado em "português estruturado" indicado abaixo implementado em 22 linguagens de programação, destacando-se: Ada, Awk, BASIC (Free BASIC e VB.Net), C, C++, C#, COBOL, D, Dart, FORTRAN (77 e 90), Go (Golang), Java, Julia, Kotlin, Lua, Objective-C, Pascal (Free Pascal), Perl, Pke, PHP, Python, Rust, Scala e Swift.
+Além do objetivo proposto, este projeto apresenta o programa codificado em "português estruturado" indicado abaixo implementado em 26 linguagens de programação, destacando-se: Ada, Awk, BASIC (Free BASIC e VB.Net), C, C++, C#, COBOL, D, Dart, FORTRAN (77 e 90), Go (Golang), Java, Julia, Kotlin, Lua, Objective-C, Pascal (Free Pascal), Perl, Pke, PHP, Python, Rust, Scala e Swift.
 
 Os programas aqui apresentados podem eventualmente serem executados nos serviços Web:
 
