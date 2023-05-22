@@ -7,8 +7,8 @@
 use strict;
 use warnings;
 
-my $T       = 3;
-my $CORRETO = 0; # "0" como valor "false"
+my $T = 3;
+my $CORRETO = 0; # "0" representa falso "false"
 my $SENHA;
 
 do {
@@ -16,7 +16,7 @@ do {
   $SENHA = <STDIN>;
   chomp $SENHA;
   if ($SENHA == 123) {
-      $CORRETO = 1; # "1" como valor "true"
+      $CORRETO = 1; # "1" representa verdadeiro "true"
   } else {
       $T = $T - 1;
       print "Tentativas restantes: $T\n";
