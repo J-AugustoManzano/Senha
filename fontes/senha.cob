@@ -1,11 +1,12 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. SENHA AS "Teste b·sico de senha".
+       PROGRAM-ID. SENHA AS "Teste b√°sico de senha".
       * Teste para uso de senha
-      * Programa did·tico, n„o pode ser
+      * Programa did√°tico, n√£o pode ser
       * usado profissionalmente
       *
-      * Linguagem COBOL (Formul·rio fixo - OpenCobolIDE)
-      * N„o È executado nos serviÁos online
+      * Linguagem COBOL (Formul√°rio fixo - OpenCobolIDE)
+      * N√£o √© executado nos servi√ßos online
+      * 'F' representa falso e 'V' representa verdadeiro
        ENVIRONMENT DIVISION.
        CONFIGURATION SECTION.
            SOURCE-COMPUTER. IBM-PC COMPATIVEL.
