@@ -7,9 +7,10 @@ Além do objetivo proposto, este projeto apresenta o programa codificado em "por
 
 Os programas aqui apresentados podem eventualmente serem executados nos serviços Web:
 
+- [Replit](https://replit.com/); - primeira melhor opção pela variedade (opinião pesoal).
 - [OnlineGBD](https://www.onlinegdb.com/);
 - [Programiz](https://www.programiz.com/cpp-programming/online-compiler/);
-- [Tutorialpoint Online Compilers and Interpreters](https://www.tutorialspoint.com/codingground.htm) - melhor opção pela variedade.
+- [Tutorialpoint Online Compilers and Interpreters](https://www.tutorialspoint.com/codingground.htm) - segunda melhor opção pela variedade (opinião pesoal).
 
 Mas não há a garantia de que esses programas funcionem como esperado, pois isso depende de diversos fatores de configuração que não se tem como definir, uma vez que os serviços são "online" é oferecem um ambiente pré-configurado.
 
