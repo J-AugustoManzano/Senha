@@ -1,5 +1,5 @@
 # Exemplos de validação de senha
-Exemplos didáticos de validação de senha.
+Exemplos meramente didáticos de validação de senha.
 
 Os programas aqui indicados possuem apelo apenas didático e não devem ser implementados da forma que estão para uso profissional em hipótese alguma. O objetivo deste exemplo é fazer a demonstração de uso de um laço pós-teste de fluxo verdadeiro, onde a entrada deve ser realizada antes da checagem condicional. O laço em uso utiliza simultaneamente duas técnicas básicas de repetição de bloco de programa, sendo: o uso de laço **iterativo** com o controle de vezes pela variável do tipo *inteiro* "T" (TENTATIVAS) e o uso de laço **interativo** com a variável do tipo "lógico" "CORRETO" que assume os valores "falso" ou "verdadeiro".
 
