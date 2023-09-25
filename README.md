@@ -66,4 +66,4 @@ O diretório "senha (somente em C++)" possui uma versão sofisticada de um progr
 
 Exemplo similar ao programa escrito em C++ encontra-se um programa escrito em Pascal junto ao diretório "senha (somente em Pascal)" a partir do programa "senha2win.pas", O código deste programa, diferentemente do programa C++, é codificado apenas para o Sistema Operacional Windows.
 
-Estes e os demais programas devem ser tratados e usados com extrema cautela.
+Estes e os demais programas devem ser tratados e usados com extrema cautela. Os exemplos apresentados são apenas possíveis soluções funcionais. Este material é exclusivamente direciado para um público iniciante na ciência da computação (programação de computadores).
